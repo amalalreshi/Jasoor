@@ -1,0 +1,2 @@
+# Jasoor
+Social Rejection App
